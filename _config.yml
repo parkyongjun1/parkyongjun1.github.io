@@ -21,7 +21,7 @@ timezone: Asia/Shanghai
 
 title: YJ's blog                       # the main title
 
-tagline: Say less Do more   # it will display as the sub-title
+tagline: Deep Learning, Computer Vision, Linux, Python   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
