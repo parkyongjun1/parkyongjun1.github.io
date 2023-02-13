@@ -46,5 +46,4 @@ pin: True
 
 ## **Reference**
 - [1] Deep Dream 참고자료: CS231n-lecture13, 49p
-
 - [2] Gram Matrix 참고자료: YBIGTA git: Neural style transfer
