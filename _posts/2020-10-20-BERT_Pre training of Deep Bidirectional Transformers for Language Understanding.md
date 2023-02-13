@@ -56,7 +56,6 @@ pin: True
 <img src="/assets/papers/BERT_Pretraining_of_Deep_Bidirectional_Transformers_for_Language_Understanding/42.png" width='800'>
 
 
-
 ## **Conclusions & Reviews**
 - bidirectional 구조를 일반화시켜 Pre training 된 모델이 광범위한 NLP 작업을 성공적으로 처리할 수 있도록 기여함.
 

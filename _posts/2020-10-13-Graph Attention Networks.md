@@ -79,7 +79,6 @@ pin: True
 <img src='/assets/papers/Graph Attention Networks/63.png' width='800'>
 
 
-
 ## **Conclusions & Reviews**
 - Attention 을 이용해 RNN, CNN 의 구조의 단점을 극복한 점이 흥미로웠다.
 
