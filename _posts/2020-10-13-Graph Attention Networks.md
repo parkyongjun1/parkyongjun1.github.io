@@ -93,4 +93,4 @@ pin: True
 
 
 ## **Reference**
-- 고려대학교 세미나 자료 : https://www.youtube.com/watch?v=NSjpECvEf0Y
+- [1] 고려대학교 세미나 자료 : https://www.youtube.com/watch?v=NSjpECvEf0Y
