@@ -37,7 +37,6 @@ pin: True
 <img src="/assets/papers/Progressive Growing of GANs for Improved Quality_Stability and Variation/24.png" width='800'>
 <img src="/assets/papers/Progressive Growing of GANs for Improved Quality_Stability and Variation/25.png" width='800'>
 
-
 ## **Experiments**
 <img src="/assets/papers/Progressive Growing of GANs for Improved Quality_Stability and Variation/27.png" width='800'>
 <img src="/assets/papers/Progressive Growing of GANs for Improved Quality_Stability and Variation/28.png" width='800'>
@@ -55,7 +54,6 @@ pin: True
 <img src="/assets/papers/Progressive Growing of GANs for Improved Quality_Stability and Variation/40.png" width='800'>
 
 
-
 ## **Conclusions & Reviews**
 - 낮은 해상도에서부터 점차 고해상도를 학습시킴으로써 훈련 속도를 높이고, 안정화하였음.
 
@@ -68,6 +66,7 @@ pin: True
 - 학교과제에 적용하는 Style Gan 을 공부하기 전 base 가 되는 PGGan 을 학습하였는데, 모델 구조는 단순하지만 그 안에 적용한 내용들이 다소 어려웠다.
 
 - 각각의 내용들을 이해하는데 시간이 조금 많이 걸리긴 했지만 나중에 Style Gan을 공부할 때 도움이 많이 될거 같다.
+
 
 ## **Reference**
 - [1] Improved Techniques for Training GANs@arXiv 2016
