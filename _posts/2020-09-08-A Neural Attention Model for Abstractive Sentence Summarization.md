@@ -15,8 +15,8 @@ pin: True
 <img src="assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/4.png" width='800'>
 
 ## **Introduction**
-<img src='.assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\5.png' width='800'>
-<img src='.assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\6.png' width='800'>
+<img src='assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\5.png' width='800'>
+<img src='assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\6.png' width='800'>
 <img src='assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\7.png' width='800'>
 <img src='assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\8.png' width='800'>
 <img src='assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\9.png' width='800'>
