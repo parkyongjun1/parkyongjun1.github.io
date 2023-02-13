@@ -78,7 +78,13 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://github.com/parkyongjun1/parkyongjun1.github.io/'
+
+# for git
+img_cdn: 'https://github.com/parkyongjun1/parkyongjun1.github.io'
+# for local
+# img_cdn: 'C:/Users/YongJun/Desktop/blog2/parkyongjun1.github.io'
+
+
 
 # the avatar on sidebar, support local or CORS resources
 avatar: 'https://user-images.githubusercontent.com/28565788/218346203-0313c8cf-8ded-47dd-97ab-b39273ed97ae.jpg'
