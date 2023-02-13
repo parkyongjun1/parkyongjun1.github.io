@@ -24,7 +24,7 @@ title: YongJun's blog                  # the main title
 tagline: Say less, Do more   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  Computer Vision Classfication and Object Detection
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://parkyongjun1.github.io/'
@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn: 'https://chirpy-img.netlify.app'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '![증명사진](https://user-images.githubusercontent.com/28565788/218345712-726218f1-31f5-4c33-b0c9-fcede0bf4163.jpg)'
+avatar: 'https://user-images.githubusercontent.com/28565788/218346203-0313c8cf-8ded-47dd-97ab-b39273ed97ae.jpg'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
