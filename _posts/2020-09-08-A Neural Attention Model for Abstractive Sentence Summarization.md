@@ -12,42 +12,42 @@ pin: True
 
 
 ## **Abstract**
-<img src="/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/(4).png" width='800'>
+<img src="/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/4)png" width='800'>
 
 ## **Introduction**
-<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\(5).png' width='800'>
-<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\(6).png' width='800'>
-<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\(7).png' width='800'>
-<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\(8).png' width='800'>
-<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\(9).png' width='800'>
-<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\(10).png' width='800'>
-<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\(11).png' width='800'>
+<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\5)png' width='800'>
+<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\6)png' width='800'>
+<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\7)png' width='800'>
+<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\8)png' width='800'>
+<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\9)png' width='800'>
+<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\10.png' width='800'>
+<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\11.png' width='800'>
 
 ## **Proposed Methods**
-<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\(13).png' width='800'>
-<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\(14).png' width='800'>
-<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\(15).png' width='800'>
-<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\(16).png' width='800'>
-<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\(17).png' width='800'>
-<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\(18).png' width='800'>
-<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\(19).png' width='800'>
-<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\(20).png' width='800'>
-<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\(21).png' width='800'>
-<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\(22).png' width='800'>
-<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\(23).png' width='800'>
-<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\(24).png' width='800'>
-<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\(25).png' width='800'>
-<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\(26).png' width='800'>
-<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\(27).png' width='800'>
+<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\13.png' width='800'>
+<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\14.png' width='800'>
+<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\15.png' width='800'>
+<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\16.png' width='800'>
+<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\17.png' width='800'>
+<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\18.png' width='800'>
+<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\19.png' width='800'>
+<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\20.png' width='800'>
+<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\21.png' width='800'>
+<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\22.png' width='800'>
+<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\23.png' width='800'>
+<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\24.png' width='800'>
+<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\25.png' width='800'>
+<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\26.png' width='800'>
+<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\27.png' width='800'>
 
 ## **Experiments**
-<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\(29).png' width='800'>
-<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\(30).png' width='800'>
-<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\(31).png' width='800'>
-<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\(32).png' width='800'>
-<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\(33).png' width='800'>
-<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\(34).png' width='800'>
-<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\(35).png' width='800'>
+<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\29.png' width='800'>
+<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\30.png' width='800'>
+<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\31.png' width='800'>
+<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\32.png' width='800'>
+<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\33.png' width='800'>
+<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\34.png' width='800'>
+<img src='\assets\papers\A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization\35.png' width='800'>
 
 
 ## **Conclusions & Reviews**
