@@ -14,7 +14,7 @@ lang: en
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/Seoul
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -158,14 +158,15 @@ defaults:
     values:
       layout: page
       permalink: /:title/
-  - scope:
-      path: assets/img/favicons
-    values:
-      swcache: true
-  - scope:
-      path: assets/js/dist
-    values:
-      swcache: true
+  #     dynamic_title: true
+  # - scope:
+  #     path: assets/img/favicons
+  #   values:
+  #     swcache: true
+  # - scope:
+  #     path: assets/js/dist
+  #   values:
+  #     swcache: true
 
 sass:
   style: compressed
