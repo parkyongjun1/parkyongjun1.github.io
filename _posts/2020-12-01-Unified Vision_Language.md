@@ -11,13 +11,13 @@ pin: True
 - [Paper link](https://arxiv.org/abs/1909.11059)
 
 
-## **Introduction**
-<img src="/assets/papers/Unified Vision_Language/4.png" width='800'>
-<img src="/assets/papers/Unified Vision_Language/5.png" width='800'>
-
 ## **Abstract**
 <img src="/assets/papers/Unified Vision_Language/7.png" width='800'>
 <img src="/assets/papers/Unified Vision_Language/8.png" width='800'>
+
+## **Introduction**
+<img src="/assets/papers/Unified Vision_Language/4.png" width='800'>
+<img src="/assets/papers/Unified Vision_Language/5.png" width='800'>
 
 ## **Related Work**
 <img src="/assets/papers/Unified Vision_Language/10.png" width='800'>
