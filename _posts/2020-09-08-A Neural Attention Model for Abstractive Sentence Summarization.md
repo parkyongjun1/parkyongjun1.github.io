@@ -1,7 +1,7 @@
 ---
 title: Paper Review. A Neural Attention Model for Abstractive Sentence Summarization@EMNLP' 2015
 author: YongJun Park
-date: 2019-07-25 18:00:00 +0900
+date: 2020-09-08 18:00:00 +0900
 categories: [Paper Reviews, NLP]
 tags: [Summarization,NLP]
 math: true
@@ -14,7 +14,7 @@ pin: True
 ## **Abstract**
 <img src="/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/4.png" width='800'>
 
-## **Introduction**
+## **Background**
 <img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/5.png' width='800'>
 <img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/6.png' width='800'>
 <img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/7.png' width='800'>
@@ -23,7 +23,7 @@ pin: True
 <img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/10.png' width='800'>
 <img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/11.png' width='800'>
 
-## **Proposed Methods**
+## **NNLM and Encoder**
 <img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/13.png' width='800'>
 <img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/14.png' width='800'>
 <img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/15.png' width='800'>
