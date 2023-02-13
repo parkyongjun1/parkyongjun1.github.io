@@ -3,7 +3,7 @@ title: Paper Review. A Neural Attention Model for Abstractive Sentence Summariza
 author: YongJun Park
 date: 2020-09-08 18:00:00 +0900
 categories: [Paper Reviews, NLP]
-tags: [Summarization,NLP]
+tags: [Summarization]
 math: true
 pin: True
 ---

@@ -1,9 +1,9 @@
 ---
-title: Paper Review. Graph Attention Networks@ICLR' 2018
+title: Paper Review. BERT: Pretraining of Deep Bidirectional Transformers for Language Understanding@NAACL' 2019
 author: YongJun Park
-date: 2020-10-13 18:00:00 +0900
-categories: [Paper Reviews, ML]
-tags: [Attention, Graph]
+date: 2020-10-20 18:00:00 +0900
+categories: [Paper Reviews, NLP]
+tags: [Pretrain, Transformer]
 math: true
 pin: True
 ---
