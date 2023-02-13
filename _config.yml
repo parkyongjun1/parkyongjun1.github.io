@@ -79,8 +79,9 @@ theme_mode:   # [light|dark]
 #
 # e.g. 'https://cdn.com'
 
+img_cdn: ''
 # for git
-img_cdn: 'https://github.com/parkyongjun1/parkyongjun1.github.io/tree/main'
+# img_cdn: 'https://github.com/parkyongjun1/parkyongjun1.github.io/tree/main'
 # for local
 # img_cdn: 'C:/Users/YongJun/Desktop/blog2/parkyongjun1.github.io'
 
