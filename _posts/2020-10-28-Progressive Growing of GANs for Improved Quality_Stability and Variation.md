@@ -1,5 +1,5 @@
 ---
-title: Paper Review. Review: Progressive Growing of GANs for Improved Quality, Stability, and Variation@arXiv’ 2018
+title: Paper Review. Progressive Growing of GANs for Improved Quality, Stability, and Variation@arXiv’ 2018
 author: YongJun Park
 date: 2020-10-28 18:00:00 +0900
 categories: [Paper Reviews, CV]
