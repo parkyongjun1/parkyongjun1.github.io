@@ -40,5 +40,4 @@ pin: True
 
 
 ## **Implement Result**
-<iframe width="560" height="315" src="/assets/video/video1.mp4" frameborder="0" allowfullscreen></iframe>
-- test
+<iframe width="800" height="500" src="/assets/video/video1.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
