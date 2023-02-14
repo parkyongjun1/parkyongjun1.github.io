@@ -60,5 +60,9 @@ pin: True
 
 - FRM을 개인 연구에 적용 후 성능 분석을 진행하고 dynamic anchor box generation과 query selection 부분의 상관 관계를 파악해볼 예정.
 
+- 제안한 방법의 완벽한 open code를 배포하지 않아 FRM 구현은 가능했지만, reference point(decoder)에 각도를 고려하는 방법을 이식할 수 없음.
+
+- Deformable DETR에서 xywh를 이용해 xy는 reference point로 wh는 deformable attention을 고려하는 구역을 정하는 scale로 사용하지만, angle의 경우 실질적으로 구역을 어떻게 scale 하는지가 불분명함.
+
 
 ## **Reference**
