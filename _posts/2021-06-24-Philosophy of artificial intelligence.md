@@ -1,7 +1,7 @@
 ---
 title: Philosophy of artificial intelligence
 author: YongJun Park
-date: 2021-06-23 19:00:00 +0900
+date: 2021-06-24 18:00:00 +0900
 categories: [Paper Reviews, Philosophy]
 tags: [AI, Philosophy]
 math: true
