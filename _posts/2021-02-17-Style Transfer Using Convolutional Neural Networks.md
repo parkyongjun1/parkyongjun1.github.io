@@ -8,7 +8,7 @@ math: true
 pin: True
 ---
 
-- [Paper link](https://www.mdpi.com/2072-4292/11/14/1702)
+- [Paper link](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
 
 
 ## **Introduction**

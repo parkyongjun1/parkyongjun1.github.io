@@ -8,7 +8,7 @@ math: true
 pin: True
 ---
 
-- [Paper link](https://arxiv.org/abs/1909.11059)
+- [Paper link](https://ojs.aaai.org/index.php/AAAI/article/view/7005)
 
 
 ## **Abstract**

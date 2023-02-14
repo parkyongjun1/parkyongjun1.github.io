@@ -8,7 +8,6 @@ math: true
 pin: True
 ---
 
-
 ## **Philosophy and AI**
 <img src="/assets/papers/Philosophy of artificial intelligence/2.png" width='800'>
 <img src="/assets/papers/Philosophy of artificial intelligence/3.png" width='800'>
