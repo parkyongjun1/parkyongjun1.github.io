@@ -37,6 +37,7 @@ pin: True
 <img src="/assets/papers/DEFORMABLE DETR_DEFORMABLE TRANSFORMERS/21.png" width='800'>
 <img src="/assets/papers/DEFORMABLE DETR_DEFORMABLE TRANSFORMERS/22.png" width='800'>
 
+
 ## **Conclusions & Reviews**
 - multi-scale feature map을 encoder input으로 사용하여  FPN의 효과를 도출함.  
 
