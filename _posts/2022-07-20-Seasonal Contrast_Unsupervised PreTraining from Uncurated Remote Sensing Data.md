@@ -3,7 +3,7 @@ title: Paper Review. Seasonal Contrast-Unsupervised Pre-Training from Uncurated 
 author: YongJun Park
 date: 2022-07-20 18:00:00 +0900
 categories: [Paper Reviews, CV]
-tags: [Pretrain, Aerial, MOCO, time-information]
+tags: [Pretrain, Aerial, MOCO, Time-information]
 math: true
 pin: True
 ---
