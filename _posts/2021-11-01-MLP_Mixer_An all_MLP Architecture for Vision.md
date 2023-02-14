@@ -41,6 +41,7 @@ pin: True
 <img src="/assets/papers/MLP_Mixer_An all_MLP Architecture for Vision/23.png" width='800'>
 <img src="/assets/papers/MLP_Mixer_An all_MLP Architecture for Vision/24.png" width='800'>
 
+
 ## **Conclusions & Reviews**
 - CNN과 Self-attention을 사용하지 않는 MLP-Mixer를 제안함.
 
