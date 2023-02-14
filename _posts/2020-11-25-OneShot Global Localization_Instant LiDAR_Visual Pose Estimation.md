@@ -12,25 +12,25 @@ pin: True
 
 
 ## **Introduction**
-<img src="/OneShot Global Localization and Instant LiDAR_Visual Pose Estimation/4.png" width='800'>
-<img src="/OneShot Global Localization and Instant LiDAR_Visual Pose Estimation/5.png" width='800'>
-<img src="/OneShot Global Localization and Instant LiDAR_Visual Pose Estimation/6.png" width='800'>
+<img src="/assets/papers/OneShot Global Localization and Instant LiDAR_Visual Pose Estimation/4.png" width='800'>
+<img src="/assets/papers/OneShot Global Localization and Instant LiDAR_Visual Pose Estimation/5.png" width='800'>
+<img src="/assets/papers/OneShot Global Localization and Instant LiDAR_Visual Pose Estimation/6.png" width='800'>
 
 ## **Related Work**
-<img src="/OneShot Global Localization and Instant LiDAR_Visual Pose Estimation/7.png" width='800'>
+<img src="/assets/papers/OneShot Global Localization and Instant LiDAR_Visual Pose Estimation/7.png" width='800'>
 
 ## **LiDAR Localization**
-<img src="/OneShot Global Localization and Instant LiDAR_Visual Pose Estimation/10.png" width='800'>
-<img src="/OneShot Global Localization and Instant LiDAR_Visual Pose Estimation/11.png" width='800'>
-<img src="/OneShot Global Localization and Instant LiDAR_Visual Pose Estimation/12.png" width='800'>
-<img src="/OneShot Global Localization and Instant LiDAR_Visual Pose Estimation/13.png" width='800'>
-<img src="/OneShot Global Localization and Instant LiDAR_Visual Pose Estimation/14.png" width='800'>
+<img src="/assets/papers/OneShot Global Localization and Instant LiDAR_Visual Pose Estimation/10.png" width='800'>
+<img src="/assets/papers/OneShot Global Localization and Instant LiDAR_Visual Pose Estimation/11.png" width='800'>
+<img src="/assets/papers/OneShot Global Localization and Instant LiDAR_Visual Pose Estimation/12.png" width='800'>
+<img src="/assets/papers/OneShot Global Localization and Instant LiDAR_Visual Pose Estimation/13.png" width='800'>
+<img src="/assets/papers/OneShot Global Localization and Instant LiDAR_Visual Pose Estimation/14.png" width='800'>
 
 ## **Experiments**
-<img src="/OneShot Global Localization and Instant LiDAR_Visual Pose Estimation/16.png" width='800'>
-<img src="/OneShot Global Localization and Instant LiDAR_Visual Pose Estimation/17.png" width='800'>
-<img src="/OneShot Global Localization and Instant LiDAR_Visual Pose Estimation/18.png" width='800'>
-<img src="/OneShot Global Localization and Instant LiDAR_Visual Pose Estimation/19.png" width='800'>
+<img src="/assets/papers/OneShot Global Localization and Instant LiDAR_Visual Pose Estimation/16.png" width='800'>
+<img src="/assets/papers/OneShot Global Localization and Instant LiDAR_Visual Pose Estimation/17.png" width='800'>
+<img src="/assets/papers/OneShot Global Localization and Instant LiDAR_Visual Pose Estimation/18.png" width='800'>
+<img src="/assets/papers/OneShot Global Localization and Instant LiDAR_Visual Pose Estimation/19.png" width='800'>
 
 
 ## **Conclusions & Reviews**
