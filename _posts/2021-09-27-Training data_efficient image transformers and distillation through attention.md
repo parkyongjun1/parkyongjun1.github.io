@@ -1,5 +1,5 @@
 ---
-title: Paper Review. Training data-efficient image transformers & distillation through attention@ICML’ 2021
+title: Paper Review. Training data-efficient image transformers and distillation through attention@ICML’ 2021
 author: YongJun Park
 date: 2021-08-18 18:00:00 +0900
 categories: [Paper Reviews, CV]
