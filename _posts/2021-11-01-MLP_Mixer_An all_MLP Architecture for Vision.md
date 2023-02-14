@@ -27,7 +27,7 @@ pin: True
 <img src="/assets/papers/MLP_Mixer_An all_MLP Architecture for Vision/9.png" width='800'>
 <img src="/assets/papers/MLP_Mixer_An all_MLP Architecture for Vision/10.png" width='800'>
 
-## **MLP-Mixer**
+## **MLP_Mixer**
 <img src="/assets/papers/MLP_Mixer_An all_MLP Architecture for Vision/15.png" width='800'>
 <img src="/assets/papers/MLP_Mixer_An all_MLP Architecture for Vision/16.png" width='800'>
 <img src="/assets/papers/MLP_Mixer_An all_MLP Architecture for Vision/17.png" width='800'>
