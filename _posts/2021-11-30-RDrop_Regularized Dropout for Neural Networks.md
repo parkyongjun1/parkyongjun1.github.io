@@ -1,5 +1,5 @@
 ---
-title: Paper Review. R-Drop_Regularized Dropout for Neural Networks@NeurIPS’ 2021
+title: Paper Review. RDrop_Regularized Dropout for Neural Networks@NeurIPS’ 2021
 author: YongJun Park
 date: 2021-11-30 18:00:00 +0900
 categories: [Paper Reviews, NLP]
