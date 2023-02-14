@@ -2,14 +2,13 @@
 title: Paper Review. Image Haze Removal Using Airlight White Correction, Local Light Filter, and Aerial Perspective Prior@TCSVT’ 2020
 author: YongJun Park
 date: 2021-04-08 18:00:00 +0900
-categories: [Paper Reviews, CV]
+categories: [Project, School]
 tags: [Denoizing, Hzae Removal]
 math: true
 pin: True
 ---
 
 - [Paper link](https://ieeexplore.ieee.org/document/8666774)
-
 
 
 ## **Abstract**
@@ -38,6 +37,5 @@ pin: True
 <img src="/assets/papers/Image Haze Removal Using Airlight White Correction_Local Light Filter and Aerial Perspective Prior/21.png" width='800'>
 
 
-
 ## **Implement Result**
-<iframe width="800" height="500" src="/assets/video/video1.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="500" src="/assets/video/haze.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
