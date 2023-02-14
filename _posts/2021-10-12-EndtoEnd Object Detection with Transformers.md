@@ -43,13 +43,13 @@ pin: True
 
 
 ## **Conclusions & Reviews**
-- 기존 object detection의 Anchor generation과 NMS를 제거한 end-to-end 파이프라인을 제안함
+- 기존 object detection의 Anchor generation과 NMS를 제거한 end-to-end 파이프라인을 제안함.
 
-- transforme를 set prediction과 이분매칭을 통해 효과적으로 성능을 끌어올림
+- transforme를 set prediction과 이분매칭을 통해 효과적으로 성능을 끌어올림.
 
-- Anchor를 생성하지 않는 점과 NMS를 사용하지 않고 object detection을 수행한다는 점이 놀라웠음
+- Anchor를 생성하지 않는 점과 NMS를 사용하지 않고 object detection을 수행한다는 점이 놀라웠음.
 
- - training time이 길다는 점과 small object에 대해서 성능이 낮다는 점이 다소 아쉬웠음
+ - training time이 길다는 점과 small object에 대해서 성능이 낮다는 점이 다소 아쉬웠음.
 
 
 ## **Reference**
