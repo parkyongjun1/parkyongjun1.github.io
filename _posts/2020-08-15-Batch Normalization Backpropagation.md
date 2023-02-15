@@ -1,5 +1,5 @@
 ---
-title: Batch Normalization Backpropagation.
+title: Study. Batch Normalization Backpropagation.
 author: YongJun Park
 date: 2020-08-15 18:00:00 +0900
 categories: [Study, doc]
