@@ -40,4 +40,4 @@ pin: True
 
 
 - Unified Reults
-<img src="/assets/study/Style_Transfer/1.jpg" width='800'>
+<img src="/assets/study/Style_transfer/1.jpg" width='800'>
