@@ -1,5 +1,5 @@
 ---
-title: Real Time Image2Cari
+title: Project. Real Time Image2Cari
 author: YongJun Park
 date: 2021-06-08 18:00:00 +0900
 categories: [Project, School]

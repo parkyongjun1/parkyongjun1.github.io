@@ -1,5 +1,5 @@
 ---
-title: Paper Review. Image Haze Removal Using Airlight White Correction, Local Light Filter, and Aerial Perspective Prior@TCSVT’ 2020
+title: Project. Image Haze Removal Using Airlight White Correction, Local Light Filter, and Aerial Perspective Prior@TCSVT’ 2020
 author: YongJun Park
 date: 2021-04-08 18:00:00 +0900
 categories: [Project, School]
