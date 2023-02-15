@@ -39,5 +39,5 @@ pin: True
 <iframe width="800" height="500" src="/assets/video/style_transfer_field.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-- Unified Reult
+- Unified Reults
 <img src="/assets/study/unified_samle.jpg" width='800'>
