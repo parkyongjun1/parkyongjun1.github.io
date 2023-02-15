@@ -1,5 +1,5 @@
 ---
-title: Project. Real Time Style Transfer System
+title: Project. AI Photographer
 author: YongJun Park
 date: 2022-06-12 18:00:00 +0900
 categories: [Project, School]
