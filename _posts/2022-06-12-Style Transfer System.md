@@ -25,9 +25,17 @@ pin: True
 
 
 ### **Demo**
+- Style Transfer process
+<iframe width="800" height="500" src="/assets/video/style_transfer_change.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 - Web
-<iframe width="800" height="500" src="/assets/video/haze.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="500" src="/assets/video/style_transfer_web.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 - Field
-<iframe width="800" height="500" src="/assets/video/haze.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="500" src="/assets/video/style_transfer_field.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+- Unified Reult
+<img src="/assets/study/unified_samle.jpg" width='800'>
