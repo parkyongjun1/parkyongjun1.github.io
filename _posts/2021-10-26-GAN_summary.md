@@ -59,4 +59,4 @@ pin: True
 
 - Sketch pair dataset과 같이 명시적으로 source와 target이 주어진 데이터의 경우 model이 어떻게 unified vector space를 형성할지 방향성을 알지만, pair data가 아닌 경우 model이 어떻게 unified vector space를 구성할지 어려움을 느낄 것이라 생각됨.
 
-- Img Translation의 Source와 Target의 domain Adaptation 연구는 결국 Language, Vision, Signal 간의 Domatin Adaptation 연구와도 결이 비슷하기 때문에(결국 한 vector space에 정보가 통합될 수 있는 관점으로 본다면) Domain Adaptation 연구 발전이 Img Translation은 물론 모든 분야의 Unified Multi Model로 이어질 수 있다고 판단함. 
+- Img Translation Source와 Target의 domain Adaptation 연구는 결국 Language, Vision, Signal 간의 Domatin Adaptation 연구와도 결이 비슷하기 때문에(결국 한 vector space에 정보가 통합될 수 있는 관점으로 본다면) Domain Adaptation 연구 발전이 Img Translation은 물론 모든 분야의 Unified Multi Model로 이어질 수 있다고 판단함. 
