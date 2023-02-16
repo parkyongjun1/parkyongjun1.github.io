@@ -11,6 +11,7 @@ order: 4
 - Email : qkr2938@gmail.com
 - Email : qkr2938@koreatech.ac.kr
 - Git Blog : [YongJun's AI blog](https://parkyongjun1.github.io/)
+- GitHub : [YongJun's GitHub](https://github.com/parkyongjun1)
 - M.S Candidate of KOREATECH [DICE Lab <img src='/assets/projects/dice.png' width='20'> ](https://www.dicelab.kr/)   
   
 # **Education**
