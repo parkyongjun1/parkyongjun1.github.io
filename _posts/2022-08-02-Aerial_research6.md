@@ -5,7 +5,7 @@ date: 2022-08-02 18:00:00 +0900
 categories: [Project, Research_Aerial]
 tags: [Oriented Object Detectoin, Object Detection, Pretrain, Aerial, Remote, EO, SeCo, Oriented DETR,DOTA, Arirang]
 math: true
-pin: True
+pin: False
 ---
 
 

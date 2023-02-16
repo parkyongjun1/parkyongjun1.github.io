@@ -5,7 +5,7 @@ date: 2023-01-11 18:00:00 +0900
 categories: [Project, Research_Aerial]
 tags: [Oriented Object Detectoin, Object Detection, Aerial, Remote, EO, Oriented DETR, DOTA]
 math: true
-pin: True
+pin: False
 ---
 
 

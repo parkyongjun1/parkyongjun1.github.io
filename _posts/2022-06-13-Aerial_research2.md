@@ -5,7 +5,7 @@ date: 2022-06-13 18:00:00 +0900
 categories: [Project, Research_Aerial]
 tags: [Oriented Object Detectoin, Object Detection, Aerial, Remote, EO, RepPoints, DOTA]
 math: true
-pin: True
+pin: False
 ---
 
 
