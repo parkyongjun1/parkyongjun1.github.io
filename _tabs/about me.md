@@ -4,21 +4,22 @@ icon: fas fa-info
 order: 4
 ---
 
-<img src='\assets\projects\my_img.jpg' width='500'>
+<img src='/assets/projects/my_img.jpg' width='500'>
 
 # **YongJun Park**
 - Birth : 1994.11.23
 - Email : qkr2938@gmail.com
 - Email : qkr2938@koreatech.ac.kr
 - Git Blog : [YongJun's AI blog](https://parkyongjun1.github.io/)
-- M.S Candidate of KOREATECH [DICE Lab <img src='\assets\projects\dice.png' width='20'> ](https://www.dicelab.kr/)   
+- M.S Candidate of KOREATECH [DICE Lab <img src='/assets/projects/dice.png' width='20'> ](https://www.dicelab.kr/)   
   
 # **Education**
 - 2013.03 ~ 2020.08   
     B.S in Computer Science, [KOREATECH University](http://www.koreatech.ac.kr/kor/Main.do/).
 - 2020.09 ~ 2023.02   
     M.S Candidate in Computer Science, [KOREATECH University](http://www.koreatech.ac.kr/kor/Main.do/).   
-    [DICE Lab <img src='\assets\projects\dice.png' width='20'> ](https://www.dicelab.kr/) 
+    [DICE Lab <img src='/assets/projects/dice.png' width='20'> ](https://www.dicelab.kr/) 
+
 
 # **Research Interests**
 - Computer Vision
