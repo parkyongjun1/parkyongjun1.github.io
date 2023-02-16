@@ -50,8 +50,6 @@ order: 4
 - 딥러닝 기반의 MLCC 데이터에 특화된 전이 학습 방법 및 장치(Transfer learning method and device specialized for MLCC data based on deep learning)/10-2021-0178855
 - 딥러닝 기반의 MLCC 적층 얼라인먼트 검사 시스템 및 방법(Deep learning-based MLCC stacked alignment inspection system and method)/10-2021-0151239
 
-# **Awards**
-- [아리랑 위성영상 AI 객체 검출 경진대회 2위](https://dacon.io/competitions/official/235644/leaderboard), 한국항공우주연구원장상 수상, Korea (2020)
 
 # **EXPERIENCE**
 - *Projects Main*
@@ -68,7 +66,6 @@ order: 4
     - (2023.01) [DFC2023](https://ieee-dataport.org/competitions/2023-ieee-grss-data-fusion-contest-large-scale-fine-grained-building-classification), IGRSS
     - (2021.09) [2021 AI Grand Challenge Track-3](https://www.ai-challenge.kr)(행동인지, 6위), 과학기술정보통신
     - (2020.10 ~ 2020.11) [딥페이크 변조 영상 탐지 AI 경진대회](https://dacon.io/competitions/official/235655/overview/description), 머니브레인
-    - (2020.09 ~ 2020.11) [아리랑 위성영상 AI 객체 검출](https://dacon.io/competitions/official/235644/overview/description)(2위), 한국항공우주연구원
     - (2020.08 ~ 2020.09) [HAICon2020 산업제어시스템 보안위협 탐지 AI 경진대회](https://dacon.io/competitions/official/235624/overview/description), 국가정보원
 
 # **Studys**
