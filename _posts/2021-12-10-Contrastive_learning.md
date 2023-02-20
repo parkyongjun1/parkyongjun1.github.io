@@ -1,7 +1,7 @@
 ---
 title: Project. Toward Contrastive Learning
 author: YongJun Park
-date: 2022-06-25 18:00:00 +0900
+date: 2021-12-10 18:00:00 +0900
 categories: [Project, School]
 tags: [Contrastive Learning, Pretrain, Pretext, Cosine Similarity]
 math: true
