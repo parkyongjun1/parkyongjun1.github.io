@@ -53,16 +53,13 @@ order: 4
 
 
 # **EXPERIENCE**
-- *Projects Main*
-    - (2022.06 ~ 2023.01) Transformer 기반 항공이미지 객체탐지 모델 연구, 개인 프로젝트
-    - (2021.11 ~ 2022.06) 인공지능 사진사 Style Transfer 연구, 개인 프로젝트
-    - (2021.04 ~ 2021.11) 위성 이미지 객체 탐지 모델 개발, 개인 프로젝트
+- *Projects*
+    - (2021.04 ~ 2022.12) 자가학습 기반 실시간 MLCC 적층 자동 검사 통합시스템 개발 [ICT 바우처 지원 사업](https://ezone.iitp.kr/common/anno/02/form.tab?PMS_TSK_PBNC_ID=PBD201900000106#ezone), 과학기술정보통신부(ICT), (주)삼성기전
+    - (2021. 04 ~ 2022.11) 다중 CCTV를 이용한 감염병 대응 시스템 개발, KIST 융합과제
+    - (2021.04 ~ 2021.11) 딥러닝 기반 비정형 객체 탐지 기술 개발, 한국항공우주연구원(KARI)
+    - (2021.04 ~ 2023.01) 위성 이미지 객체 탐지 모델 개발, 개인 프로젝트
+    - (2020.07 ~ 2022.06) 인공지능 사진사 Style Transfer 연구, 개인 프로젝트
     - (2020.07 ~ 2021.11) KOREATECH 30주년 인공지능 사진사 개발, KOREATECH
-    
-- *Projects Assistant*
-  - (2021. 04 ~ 2022.11) 다중 CCTV를 이용한 감염병 대응 시스템 개발, KIST 융합과제
-  - (2021.04 ~ 2022.12) 자가학습 기반 실시간 MLCC 적층 자동 검사 통합시스템 개발 [ICT 바우처 지원 사업](https://ezone.iitp.kr/common/anno/02/form.tab?PMS_TSK_PBNC_ID=PBD201900000106#ezone), 과학기술정보통신부(ICT), (주)삼성기전
-  - (2021.04 ~ 2021.11) 딥러닝 기반 비정형 객체 탐지 기술 개발, 한국항공우주연구원(KARI)
     
 - *Challenges*
     - (2023.01) [DFC2023](https://ieee-dataport.org/competitions/2023-ieee-grss-data-fusion-contest-large-scale-fine-grained-building-classification), IGRSS
