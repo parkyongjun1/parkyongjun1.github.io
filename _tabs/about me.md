@@ -46,7 +46,7 @@ order: 4
 - J. U. Jung, S. B. Son, J. C. Park, Y. J. Park, S. H. Lee and H. S. Oh “MixFace: Improving Face Verification Focusing on Fine-grained Conditions,” arXiv preprint arXiv:2111.01717, 2021.
 - S. B. Son, S. H. Lee, J. C. Park, J. U. Jung, Y. J. Park and H. S. Oh “Patch Image Merge System using Deep Neural Network for Chip Defect Analysis,” Journal of Institute of Control, Robotics and Systems (in Korean), vol.27, no.8, pp.528-534, 2021.
 
-# **Patent Application**
+# **Patent**
 - 스타일 전이를 이용한 실시간 작품 생성 시스템 및 그 방법(Style transfer used Real-time work producing system and its method)/10-2022-0034775
 - 딥러닝 기반의 MLCC 데이터에 특화된 전이 학습 방법 및 장치(Transfer learning method and device specialized for MLCC data based on deep learning)/10-2021-0178855
 - 딥러닝 기반의 MLCC 적층 얼라인먼트 검사 시스템 및 방법(Deep learning-based MLCC stacked alignment inspection system and method)/10-2021-0151239
