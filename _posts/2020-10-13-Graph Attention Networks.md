@@ -12,7 +12,7 @@ pin: False
 
 
 ## **Abstract**
-<img src="/assets/papers/Graph Attention Networks/4.png" width='800'>
+<img src="/assets/papers/Graph Attention Networks/4.png" alt='' width='800'>
 
 ## **Attention**
 <img src='/assets/papers/Graph Attention Networks/6.png' alt='' width='800'>

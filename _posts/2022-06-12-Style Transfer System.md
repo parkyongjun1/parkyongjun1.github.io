@@ -41,4 +41,4 @@ pin: True
 
 
 - Unified Reults
-<img src="/assets/projects/Style_transfer/sample.jpg" width='800'>
+<img src="/assets/projects/Style_transfer/sample.jpg" alt= '' width='800'>
