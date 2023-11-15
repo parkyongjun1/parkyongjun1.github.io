@@ -16,10 +16,10 @@ order: 4
   
 # **Education**
 - 2013.03 ~ 2020.08   
-    B.S in Computer Science, [KOREATECH University](http://www.koreatech.ac.kr/kor/Main.do/).
+    B.S in Computer Science, [KOREATECH University](http://www.koreatech.ac.kr)
 - 2020.09 ~ 2023.02   
-    M.S Candidate in Computer Science, [KOREATECH University](http://www.koreatech.ac.kr/kor/Main.do/).   
-    [DICE Lab <img src='/assets/projects/dice.png' alt='' width='20'> ](https://www.dicelab.kr/) 
+    M.S Candidate in Computer Science, [KOREATECH University](http://www.koreatech.ac.kr)
+    [DICE Lab <img src='/assets/projects/dice.png' alt='' width='20'> ](https://www.dicelab.kr) 
 
 
 # **Research Interests**
@@ -67,10 +67,10 @@ order: 4
     - (2020.08 ~ 2020.09) [HAICon2020 산업제어시스템 보안위협 탐지 AI 경진대회](https://dacon.io/competitions/official/235624/overview/description), 국가정보원
 
 # **Studys**
-1.  (2021.06 ~ 2021.10) [CS231A: Computer Vision, From 3D Reconstruction to Recognition](http://web.stanford.edu/class/cs231a/syllabus.html), Stanford
-2.  (2020.09 ~ 2021.01) [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/), Stanford
+1.  (2021.06 ~ 2021.10) [CS231A: Computer Vision, From 3D Reconstruction to Recognition](https://web.stanford.edu/class/cs231a/syllabus.html), Stanford
+2.  (2020.09 ~ 2021.01) [CS224d: Deep Learning for Natural Language Processing](https://cs224d.stanford.edu/), Stanford
 3.  (2020.07 ~ 2020.09) [CS109: Probability for Computer Scientists](https://web.stanford.edu/class/archive/cs/cs109/cs109.1196/schedule.html), Stanford
-4.  (2020.06 ~ 2019.09) [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/), Stanford
+4.  (2020.06 ~ 2019.09) [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.stanford.edu/), Stanford
 
 
 
