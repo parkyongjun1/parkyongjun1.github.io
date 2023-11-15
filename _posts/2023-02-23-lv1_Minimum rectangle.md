@@ -1,5 +1,5 @@
 ---
-title: programmers. Minimum rectangle(lv1)
+title: Programmers. Minimum rectangle(lv1)
 author: YongJun Park
 date: 2023.02.23 13:00:00 +0900
 categories: [Programmers, lv1]
