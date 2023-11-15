@@ -18,6 +18,7 @@ pin: True
 - 등록번호: 10-2599170
 - 전시: 교내 30주년 행사, 서울 K-일러스트레이션 페어, 계룡군 문화엑스포
 
+
 ### **System**
 <img src="/assets/projects/Style_transfer/2.png" alt='' width='800'>
 <img src="/assets/projects/Style_transfer/3.png" alt='' width='800'>
