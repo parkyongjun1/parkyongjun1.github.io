@@ -52,7 +52,7 @@ order: 4
 - 딥러닝 기반의 MLCC 적층 얼라인먼트 검사 시스템 및 방법(Deep learning-based MLCC stacked alignment inspection system and method)/10-2021-0151239
 
 
-# **EXPERIENCE**
+# **Experience**
 - *Projects*
     - (2021.04 ~ 2022.12) 자가학습 기반 실시간 MLCC 적층 자동 검사 통합시스템 개발 [ICT 바우처 지원 사업](https://ezone.iitp.kr/common/anno/02/form.tab?PMS_TSK_PBNC_ID=PBD201900000106#ezone), 과학기술정보통신부(ICT), (주)삼성기전
     - (2021. 04 ~ 2022.11) 다중 CCTV를 이용한 감염병 대응 시스템 개발, KIST 융합과제
