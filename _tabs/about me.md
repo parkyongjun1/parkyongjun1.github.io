@@ -4,7 +4,7 @@ icon: fas fa-info
 order: 4
 ---
 
-<img src='./assets/projects/my_img.jpg' width='500'>
+<img src='/assets/projects/my_img.jpg' width='500'>
 
 # **YongJun Park**
 - Birth : 1994.11.23
