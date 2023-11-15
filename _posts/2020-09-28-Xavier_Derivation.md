@@ -5,7 +5,7 @@ date: 2020-09-28 18:00:00 +0900
 categories: [Study, doc]
 tags: [Xavier, Derivation]
 math: true
-pin: False
+pin: True
 ---
 
 ## **Xavier Derivation**
