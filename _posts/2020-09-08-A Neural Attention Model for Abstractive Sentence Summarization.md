@@ -1,0 +1,64 @@
+---
+title: Paper Review. A Neural Attention Model for Abstractive Sentence Summarization@EMNLP' 2015
+author: YongJun Park
+date: 2020-09-08 18:00:00 +0900
+categories: [Paper Reviews, NLP]
+tags: [Summarization]
+math: true
+pin: False
+---
+
+- [Paper link](https://aclanthology.org/D15-1044/)
+
+
+## **Abstract**
+<img src="/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/4.png" alt='' width='800'>
+
+## **Background**
+<img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/5.png' alt='' width='800'>
+<img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/6.png' alt='' width='800'>
+<img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/7.png' alt='' width='800'>
+<img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/8.png' alt='' width='800'>
+<img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/9.png' alt='' width='800'>
+<img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/10.png' alt='' width='800'>
+<img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/11.png' alt='' width='800'>
+
+## **NNLM and Encoder**
+<img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/13.png' alt='' width='800'>
+<img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/14.png' alt='' width='800'>
+<img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/15.png' alt='' width='800'>
+<img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/16.png' alt='' width='800'>
+<img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/17.png' alt='' width='800'>
+<img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/18.png' alt='' width='800'>
+<img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/19.png' alt='' width='800'>
+<img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/20.png' alt='' width='800'>
+<img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/21.png' alt='' width='800'>
+<img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/22.png' alt='' width='800'>
+<img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/23.png' alt='' width='800'>
+<img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/24.png' alt='' width='800'>
+<img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/25.png' alt='' width='800'>
+<img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/26.png' alt='' width='800'>
+<img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/27.png' alt='' width='800'>
+
+## **Experiments**
+<img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/29.png' alt='' width='800'>
+<img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/30.png' alt='' width='800'>
+<img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/31.png' alt='' width='800'>
+<img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/32.png' alt='' width='800'>
+<img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/33.png' alt='' width='800'>
+<img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/34.png' alt='' width='800'>
+<img src='/assets/papers/A_NeuralAttentionModel_for_Abstractive_Sentence_Summarization/35.png' alt='' width='800'>
+
+
+## **Conclusions & Reviews**
+- 모델과 인코더가 단순한 구조지만 성능이 좋았다는 점이 흥미로웠다. 단순히 복잡한 모델만이 성능향상이 되는 것이 아닌 단순하고 효율적인 모델 구조를 가져야 한다는 점을 느꼈다.
+
+
+- 실제로 생성한 Text가 문맥상 완벽하지 않다는 점을 보고 왜 Abstractive summlization가 어려운지를 느낄 수 있었다.
+
+
+- 논문을 이해하는데 다소 어려움을 겪었기 때문에 현재 스터디하는 cs224s를 열심히 공부해 기본 지식을 탄탄히 가져가야겠다는 생각을 했다.
+
+
+
+## **Reference**
