@@ -8,6 +8,7 @@ math: true
 pin: False
 ---
 
+
 ## **Xavier Derivation**
 <img src="/assets/study/Xavier_Derivation/1.png" alt='' width='800'>
 <img src="/assets/study/Xavier_Derivation/2.png" alt='' width='800'>
