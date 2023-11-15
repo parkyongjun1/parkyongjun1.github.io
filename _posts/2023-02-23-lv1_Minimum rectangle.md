@@ -10,7 +10,7 @@ pin: False
 
 - [Code link](https://github.com/parkyongjun1/programmers_algorithm/blob/main/level_1/Minimum%20rectangle.py)
 
-## 최소직사각형
+## **최소직사각형**
 - 완전탐색
 - 정답률: 70% 
 - 2023.02.23
