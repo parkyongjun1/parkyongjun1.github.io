@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/assets/projects/my_img1.jpg'
+avatar: '/assets/img/favicons/apple-touch-icon.png'
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -153,14 +153,15 @@ defaults:
     values:
       layout: page
       permalink: /:title/
-  - scope:
-      path: assets/img/favicons
-    values:
-      swcache: true
-  - scope:
-      path: assets/js/dist
-    values:
-      swcache: true
+      dynamic_title: true
+  # - scope:
+  #     path: assets/img/favicons
+  #   values:
+  #     swcache: true
+  # - scope:
+  #     path: assets/js/dist
+  #   values:
+  #     swcache: true
 
 sass:
   style: compressed
