@@ -1,7 +1,7 @@
 ---
 title: Project. AI Photographer
 author: YongJun Park
-date: 2022-06-12 18:00:00 +0900
+date: 2023-11-02 18:00:00 +0900
 categories: [Project, School]
 tags: [Transfer learning, Image Style Transfer, Multi Modal, Feild System]
 math: true
@@ -12,7 +12,7 @@ pin: True
 
 
 ## **Real Time Style Transfer System**
-- 특허출원 후 등록
+- 특허등록
 - 명칭: 스타일 전이를 이용한 실시간 작품 생성 시스템 및 그 방법
 - 출원번호: 10-2022-0034775
 - 등록번호: 10-2599170
