@@ -11,15 +11,16 @@ pin: False
 - [Code link](https://github.com/parkyongjun1/programmers_algorithm/blob/main/level_1/3friends.py)
 
 
-#### 콜라문제
-##### practice problem
-##### 정답률: 72% 
-##### 2023.10.01
-##### 15:00 ~ 16:00 (60 min)
-##### 후기: 처음 정수 숫자가 중복된다는 점을 캐치못해 중복없는 조건으로 코드를 작성했다. 이후 중복된다는 점을 캐치하고 3중 for문을 사용해 모든 조합을 고려해 문제를 해결했다.
+## 콜라문제
+- practice problem
+- 정답률: 72% 
+- 2023.10.01
+- 15:00 ~ 16:00 (60 min)
+- 후기: 처음 정수 숫자가 중복된다는 점을 캐치못해 중복없는 조건으로 코드를 작성했다. 이후 중복된다는 점을 캐치하고 3중 for문을 사용해 모든 조합을 고려해 문제를 해결했다.
 
 ## **Code**
-- def solution(number):
+```python
+def solution(number):
     sum_n = 0
     cnt = 0
     for i in range(len(number)):
@@ -31,3 +32,4 @@ pin: False
         sum_n = 0
 
     return cnt
+```
