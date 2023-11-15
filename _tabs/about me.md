@@ -16,9 +16,9 @@ order: 4
   
 # **Education**
 - 2013.03 ~ 2020.08   
-    B.S in Computer Science, [KOREATECH University](http://www.koreatech.ac.kr)
+    B.S in Computer Science, [KOREATECH University](https://www.koreatech.ac.kr)
 - 2020.09 ~ 2023.02   
-    M.S Candidate in Computer Science, [KOREATECH University](http://www.koreatech.ac.kr)
+    M.S Candidate in Computer Science, [KOREATECH University](https://www.koreatech.ac.kr)
     [DICE Lab <img src='/assets/projects/dice.png' alt='' width='20'> ](https://www.dicelab.kr) 
 
 
