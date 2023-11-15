@@ -8,7 +8,7 @@ math: true
 pin: False
 ---
 
-- [Paper link](https://aclanthology.org/D15-1044/)
+- [Paper link](https://aclanthology.org/D15-1044)
 
 
 ## **Abstract**
