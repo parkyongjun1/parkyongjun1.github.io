@@ -49,4 +49,4 @@ def solution(sizes):
     
     answer = max_w * max_h
     return answer
-    ```
+```
