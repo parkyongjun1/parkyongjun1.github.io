@@ -66,7 +66,7 @@ order: 4
     - (2020.10 ~ 2020.11) [딥페이크 변조 영상 탐지 AI 경진대회](https://dacon.io/competitions/official/235655/overview/description)(36위), 머니브레인
     - (2020.08 ~ 2020.09) [HAICon2020 산업제어시스템 보안위협 탐지 AI 경진대회](https://dacon.io/competitions/official/235624/overview/description), 국가정보원
 
-# **Studys**
+# **Study**
 1.  (2021.06 ~ 2021.10) [CS231A: Computer Vision, From 3D Reconstruction to Recognition](https://web.stanford.edu/class/cs231a/syllabus.html), Stanford
 2.  (2020.09 ~ 2021.01) [CS224d: Deep Learning for Natural Language Processing](https://cs224d.stanford.edu/), Stanford
 3.  (2020.07 ~ 2020.09) [CS109: Probability for Computer Scientists](https://web.stanford.edu/class/archive/cs/cs109/cs109.1196/schedule.html), Stanford
