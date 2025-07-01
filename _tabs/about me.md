@@ -10,10 +10,15 @@ order: 4
 - Birth : 1994.11.23
 - Email : qkr2938@gmail.com
 - Email : qkr2938@koreatech.ac.kr
-- Git Blog : [YongJun's AI blog](https://parkyongjun1.github.io/)
+- Blog : [YongJun's Blog](https://yongjunpark.streamlit.app/)
+- Git Blog : [YongJun's GitBlog](https://parkyongjun1.github.io/)
 - GitHub : [YongJun's GitHub](https://github.com/parkyongjun1)
 - M.S Candidate of KOREATECH [DICE Lab <img src='/assets/projects/dice.png' alt='' width='20'> ](https://www.dicelab.kr/)   
-  
+
+# **Work**
+- 2024.01 ~ (now)   
+    [VisualCamp](https://eyedid.ai), R&D AI Researcher
+
 # **Education**
 - 2013.03 ~ 2020.08   
     B.S in Computer Science, [KOREATECH University](https://www.koreatech.ac.kr)
@@ -24,23 +29,22 @@ order: 4
 
 # **Research Interests**
 - Computer Vision
+    - Gaze Estimation
+    - Multi-view Tracking
+    - Re-Identification
     - 2D Object Detection
-    - 3D Object Detection
     - Image Generation
     - Style Transfer
-    - Image to Image Translation
-    - Image Classification
-    - Face Recognition
     - Contrastive Learning
     - Self-supervised Learning
-    - PreText Learning
     
 - Natural Language Processing
     - Prompt Learning
-
-- Reinforcement Learning
+    - Multi-agent Systems
 
 # **Publication Papers**
+- Younghan Kim, Kangryun Moon, Yongjun Park, Yonggyu Kim "Causal Representation-Based Domain Generalization on Gaze Estimation". Proceedings of the Winter Conference on Applications of Computer Vision (WACV) Workshops, 2025, pp. 386-395
+- Kangryun Moon, Yonghan Kim, Yongjun Park, Yonggyu Kim "Gaze-Manipulated Data Augmentation for Gaze Estimation With Diffusion Autoencoders". Journal of the Korea Computer Graphics Society, vol.30, no.3, pp. 51-59 (9 pages), 2024.
 - J. U. Jung, S. H. Lee, Y. J. Park, J. C. Park, S. B. Son, and H. S. Oh "Unified Negative Pair Generation toward the Ideal Verification Space for Face Recognition". In British Machine Vision Conference (BMVC), 2022.
 - J. C. Park, S. B. Son, S. H. Lee, J. U. Jung, Y. J. Park, and H. S. Oh “Deep Ensemble based Object Detection from Aerial Images,” Journal of Institute of Control, Robotics and Systems (in Korean), vol.27, no.12, pp.944-952, 2021.
 - J. U. Jung, S. B. Son, J. C. Park, Y. J. Park, S. H. Lee and H. S. Oh “MixFace: Improving Face Verification Focusing on Fine-grained Conditions,” arXiv preprint arXiv:2111.01717, 2021.
